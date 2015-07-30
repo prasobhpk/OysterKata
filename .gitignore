@@ -1,0 +1,14 @@
+*.user
+*.suo
+*_ReSharper*
+*_NCrunch*
+*.orig
+*.cache
+*.sublime-workspace
+
+bin
+obj
+out
+
+# Do not include actual packages as they will be extracted either on dev or on build system.
+packages/
